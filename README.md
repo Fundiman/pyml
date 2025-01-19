@@ -13,7 +13,7 @@ Pyml is a JavaScript library that enables running Python code directly in the br
 1. Include Pyodide and Pyml in your HTML:
     ```html
     <script src="https://cdn.jsdelivr.net/pyodide/v0.23.2/full/pyodide.js"></script>
-    <script src="https://fundiman.github.io/Pyml/pyml.js"></script>
+    <script src="https://fundiman.github.io/pyml/pyml.js"></script>
     ```
 
 2. Add Python code inside `<python>` tags:
